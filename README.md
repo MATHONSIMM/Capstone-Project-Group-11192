@@ -3,7 +3,7 @@ Hierarchical Risk Parity with Autoencoder-based Covariance Estimation and Deep N
 
 Hierarchical Risk Parity with Autoencoder-based Covariance Estimation and Deep Neural Network Sector Rotation (JSE)
 
- ##Overview
+ ## Overview
 
 This repository contains the source code, data workflow, and report for the capstone project titled:
 
@@ -13,7 +13,7 @@ The project integrates Autoencoder-based covariance estimation, Hierarchical Ris
 
 Developed as part of the Master of Science in Financial Engineering at WorldQuant University under the supervision of Prof. Ivan Blanco.
 
-##Authors
+## Authors
 
 Mphikeleli Mbongiseni Mathonsi
 mphikelelimm@gmail.com
@@ -22,7 +22,7 @@ Humbelani Khuli
 humbelanikhuli240@gmail.com
 
 
-Methodology Summary
+## Methodology Summary
 1. Data Collection
 
 Historical adjusted closing prices of JSE-listed Satrix ETFs (2008–2025) retrieved using the yfinance API.
